@@ -8,7 +8,7 @@ const username = "kayla"
 
     return(
         <nav className="mt-5" onClick={() => alert("clicked")} style={styles} >
-            <PerScholasLogo />
+            {/* <PerScholasLogo /> */}
             <a href="#" className="some-class">Home</a>
             <a href="#">About</a>
 
